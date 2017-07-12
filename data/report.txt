@@ -1,0 +1,13 @@
+HistoryId: NCID_1_37616006_130.14.22.33_5555_1499276647_2059993738_0MetA0_S_HStore
+QueryKey: 34
+ReleaseType: GenBank
+FileType: genomic.fna.gz
+Flat: true
+
+Query title: Search Neisseria Meningitidis AND bacteria[filter] AND latest[filter] AND "complete genome"[filter] AND all[filter] NOT anomalous[filter]  Sort by: SORTORDER
+Search results count: 78
+Entries to download: 78
+
+genomic.fna.gz files in archive: 78
+Total size (bytes): 49356125
+Total time: 52.2 seconds

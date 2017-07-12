@@ -1,0 +1,13 @@
+,host(file_name),position,length,Score,keywords,GC%
+0,GCF_000006845.1_ASM684v1_genomic,441337-500418,59Kb,120.0,"integrase,terminase,head,capsid,virion,tail,plate",52.94%
+1,GCF_000020105.1_ASM104722v1_genomic,191612-239575,47.9Kb,130.0,"integrase,capsid,terminase,head,virion,tail,plate",54.00%
+2,GCF_000020105.1_ASM104722v1_genomic,451221-474055,22.8Kb,100.0,"recombinase,tail,plate,transposase,integrase",54.79%
+3,GCF_000020105.1_ASM2010v1_genomic,526678-562279,35.6Kb,100.0,"integrase,terminase,portal,virion,capsid",55.35%
+4,GCF_000020105.1_ASM2010v1_genomic,1172545-1218400,45.8Kb,110.0,"head,tail,plate,virion,terminase,capsid",54.79%
+5,GCF_000156855.2_ASM15685v2_genomic,445431-505218,59.7Kb,120.0,"integrase,capsid,terminase,portal,virion,tail,plate,head",52.96%
+6,GCF_001661085.1_ASM166108v1_genomic,456894-489977,33Kb,100.0,"integrase,terminase,portal,virion,capsid",55.94%
+7,GCF_001661135.1_ASM166113v1_genomic,463645-501040,37.3Kb,100.0,"capsid,terminase,head,virion,tail,plate",55.48%
+8,GCF_001661135.1_ASM166113v1_genomic,713119-735959,22.8Kb,110.0,"recombinase,tail,plate,transposase,integrase",54.79%
+9,GCF_002073535.1_ASM207353v1_genomic,736393-774091,37.6Kb,100.0,"capsid,terminase,head,virion,plate,tail",54.99%
+10,GCF_002073535.1_ASM207353v1_genomic,986119-1008940,22.8Kb,100.0,"recombinase,tail,plate,transposase,integrase",54.82%
+11,GCF_002073615.1_ASM207361v1_genomic,1192872-1228374,35.5Kb,100.0,"integrase,terminase,portal,virion,capsid",55.26%

@@ -1,0 +1,13 @@
+HistoryId: NCID_1_32006603_130.14.18.48_5555_1499105792_577344294_0MetA0_S_HStore
+QueryKey: 15
+ReleaseType: RefSeq
+FileType: genomic.fna.gz
+Flat: true
+
+Query title: Search Neisseria gonorrhoeae AND bacteria[filter] AND latest[filter] AND "complete genome"[filter] AND all[filter] NOT anomalous[filter]  Sort by: SORTORDER
+Search results count: 12
+Entries to download: 12
+
+genomic.fna.gz files in archive: 12
+Total size (bytes): 7730652
+Total time: 2.60 seconds
